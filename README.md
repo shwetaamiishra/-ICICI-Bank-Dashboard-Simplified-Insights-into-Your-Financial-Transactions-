@@ -19,5 +19,6 @@ Building this dashboard involved not just technical skills but also thoughtful d
 
 --- 
 
-![Screenshot 2025-01-11 150836](https://github.com/user-attachments/assets/de7d706e-b3e3-4e2c-8519-6295fb3cd616)
+![Screenshot 2025-01-11 170716](https://github.com/user-attachments/assets/2b09e72f-93f8-42e5-8265-7672de6f932d)
+
 
